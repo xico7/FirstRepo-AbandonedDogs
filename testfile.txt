@@ -1,0 +1,137 @@
+Leao	17 ano(s) e 4 mes(es)	Masculino	Cao da Serra da Estrela (puro)	Curto e Grosso	Grande		 1 de Maio de 2013	NaN	
+Zaida	2 ano(s) e 5 mes(es)	Feminino	Cao Pastor Alemao (puro)	Curto e Sedoso	Grande		NaN	 1 de Novembro de 2005	
+Gabiru	14 ano(s)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 11 de Janeiro de 2016	NaN	
+Bicha	15 ano(s) e 6 mes(es)	Feminino	Cao Rafeiro (indefinida)	Comprido e Liso	Medio		 6 de Julho de 2014	NaN	
+Bicha	15 ano(s) e 6 mes(es)	Feminino	Cao Rafeiro (indefinida)	Comprido e Liso	Medio		 6 de Julho de 2014	NaN	
+Princesa Piquitita		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 6 de Setembro de 2007	NaN	
+Roque		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 1 de Novembro de 2005	NaN	
+Fada	11 ano(s) e 3 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Grande		 23 de Abril de 2009	NaN	
+Daika	13 ano(s)	Feminino  (esterilizada)	Podengo Medio Portugues (arracado)	Comprido e Liso	Medio		 7 de Janeiro de 2012	NaN	
+Dalila		Feminino	Podengo Medio Portugues (arracado)	Comprido e Liso	Medio		NaN	 12 de Abril de 2008	
+Mel		Feminino	Podengo Medio Portugues (arracado)	Comprido e Liso	Medio		 20 de Novembro de 2007	NaN	
+Julie		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 24 de Fevereiro de 2008	NaN	
+James		Masculino (castrado)	Cao Rafeiro (indefinida)	Comprido e Liso	Pequeno		 24 de Fevereiro de 2008	NaN	
+Tootsie	13 ano(s)	Masculino (castrado)	Setter Ingles (arracado)	Comprido e Liso	Grande		 3 de Janeiro de 2013	NaN	
+Branquinho (Pai dos Boxers)	17 ano(s) e 6 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Comprido e Liso	Medio		 5 de Setembro de 2013	NaN	
+Mateus		Masculino (castrado)	Cao Rafeiro (indefinida)	Comprido e Liso	Medio		NaN	 17 de Agosto de 2011	
+Manecas		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		NaN	NaN	
+Manecas		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		NaN	NaN	
+Manecas		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		NaN	NaN	
+Jaiminho		Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 23 de Agosto de 2008	NaN	
+Sony	10 ano(s) e 10 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno	6 de Marco de 2003	 28 de Janeiro de 2009	NaN	
+York		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 26 de Fevereiro de 2016	NaN	
+Teka		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 14 de Dezembro de 2009	NaN	
+Desconhecid		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 5 de Fevereiro de 2006	NaN	
+Joaozinho		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		NaN	 6 de Setembro de 2010	
+Rainha		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Grande		 29 de Agosto de 2007	NaN	
+Miuda		Feminino	Cao Rafeiro (indefinida)	Curto e Grosso	Medio		 14 de Novembro de 2010	NaN	
+Vermut		Masculino	Cao Rafeiro (indefinida)	Medio e Liso	Medio		 5 de Agosto de 2006	NaN	
+Malandreco		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 19 de Agosto de 2009	NaN	
+Amigo		Masculino	Cao Pastor Alemao (puro)	Curto e Sedoso	Grande		 6 de Abril de 2008	NaN	
+Porco Espinho		Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Grosso	Medio		 3 de Abril de 2007	NaN	
+Porco Espinho		Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Grosso	Medio		 3 de Abril de 2007	NaN	
+Diana	6 ano(s) e 7 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Comprido e Liso	Medio	6 de Marco de 2005	NaN	 31 de Outubro de 2010	
+Diana	6 ano(s) e 7 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Comprido e Liso	Medio	6 de Marco de 2005	NaN	 31 de Outubro de 2010	
+Cocas	10 ano(s) e 5 mes(es)	Masculino (castrado)	Cocker Spaniel (arracado)	Medio e Encaracolado	Pequeno		 4 de Setembro de 2008	NaN	
+Cocas	10 ano(s) e 5 mes(es)	Masculino (castrado)	Cocker Spaniel (arracado)	Medio e Encaracolado	Pequeno		 4 de Setembro de 2008	NaN	
+Bainha	8 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		NaN	 28 de Dezembro de 2002	
+Bainha	8 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		NaN	 28 de Dezembro de 2002	
+Branquinho	17 ano(s) e 1 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Grosso	Grande		 5 de Maio de 2014	NaN	
+Sherazade	14 ano(s) e 3 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Grosso	Grande		 22 de Julho de 2012	NaN	
+Fati	9 ano(s) e 4 mes(es)	Feminino	Cao Rafeiro (indefinida)	Medio e Ondulado	Medio		 8 de Agosto de 2008	NaN	
+Doggy	13 ano(s) e 3 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 14 de Julho de 2013	NaN	
+Aninhas		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		NaN	 3 de Setembro de 2005	
+Miranda		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Grande		 27 de Junho de 2007	NaN	
+Engenheiro	7 ano(s) e 2 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Grande		 7 de Junho de 2007	NaN	
+Torneiras	13 ano(s) e 10 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Grosso	Grande		 15 de Fevereiro de 2008	NaN	
+Vanessa	5 ano(s) e 8 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 17 de Dezembro de 2008	NaN	
+Guilien	12 ano(s) e 5 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Grosso	Grande		 25 de Setembro de 2008	NaN	
+Guilien	12 ano(s) e 5 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Grosso	Grande		 25 de Setembro de 2008	NaN	
+Guilien	12 ano(s) e 5 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Grosso	Grande		 25 de Setembro de 2008	NaN	
+Tim (Cigano)	17 ano(s) e 5 mes(es)	Masculino	Labrador Retriever (puro)	Curto e Sedoso	Grande		 9 de Setembro de 2016	NaN	
+Dani		Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 10 de Setembro de 2009	NaN	
+Juca	16 ano(s)	Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 12 de Dezembro de 2014	NaN	
+Lena		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 28 de Agosto de 2009	NaN	
+Puka		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 7 de Julho de 2011	NaN	
+Scotch		Masculino	Cao Rafeiro (indefinida)	Medio e Ondulado	Grande		 21 de Fevereiro de 2011	NaN	
+Sem Nome Atribuido		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 16 de Fevereiro de 2007	NaN	
+Dulce		Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		NaN	 1 de Outubro de 2011	
+Dulce		Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		NaN	 1 de Outubro de 2011	
+Juma	4 ano(s)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		NaN	 7 de Abril de 2007	
+Lali / Gordinha		Feminino	Cao Rafeiro (indefinida)	Medio e Liso	Pequeno		 29 de Janeiro de 2008	NaN	
+Miana /Miniana		Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Comprido e Liso	Medio		NaN	 10 de Novembro de 2011	
+Sem Nome Atribuido		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 17 de Junho de 2006	NaN	
+Fredinho		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 10 de Janeiro de 2009	NaN	
+Docas		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 10 de Setembro de 2009	NaN	
+Lori		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		NaN	 15 de Janeiro de 2006	
+Patareca	15 ano(s) e 7 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 1 de Agosto de 2013	NaN	
+Maya		Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 20 de Dezembro de 2009	NaN	
+Sem Nome Atribuido		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 14 de Fevereiro de 2007	NaN	
+Ricardina	11 ano(s) e 2 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 11 de Marco de 2009	NaN	
+Cigana	13 ano(s) e 8 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 26 de Outubro de 2012	NaN	
+Merlin		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 27 de Marco de 2009	NaN	
+Becas		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 4 de Janeiro de 2011	NaN	
+Totti		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 10 de Janeiro de 2010	NaN	
+Agapito		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 8 de Maio de 2011	NaN	
+Tuli		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 19 de Outubro de 2009	NaN	
+Peladinho		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 11 de Outubro de 2007	NaN	
+Porto	14 ano(s) e 8 mes(es)	Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 1 de Setembro de 2012	NaN	
+Ruivinha		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 26 de Dezembro de 2008	NaN	
+Leao (cego)	14 ano(s) e 4 mes(es)	Masculino	Cao Rafeiro (indefinida)	Medio e Liso	Grande	5 de Marco de 1998	 10 de Julho de 2008	NaN	
+Dragao	11 ano(s) e 6 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Medio e Liso	Grande	2 de Marco de 2004	 28 de Setembro de 2007	NaN	
+Dragao	11 ano(s) e 6 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Medio e Liso	Grande	2 de Marco de 2004	 28 de Setembro de 2007	NaN	
+Goncalo	13 ano(s) e 10 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Medio e Liso	Medio	6 de Marco de 1998	 2 de Fevereiro de 2008	NaN	
+Ruivo	14 ano(s) e 3 mes(es)	Masculino	Cao Rafeiro (indefinida)	Medio e Liso	Medio		 4 de Julho de 2008	NaN	
+Faruk	12 ano(s)	Masculino (castrado)	Cao Rafeiro (indefinida)	Medio e Liso	Medio	3 de Julho de 2000	 13 de Marco de 2006	NaN	
+Piloto	11 ano(s) e 11 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Medio e Liso	Medio	6 de Marco de 1999	 1 de Maio de 2008	NaN	
+Piloto	11 ano(s) e 11 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Medio e Liso	Medio	6 de Marco de 1999	 1 de Maio de 2008	NaN	
+Piloto	11 ano(s) e 11 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Medio e Liso	Medio	6 de Marco de 1999	 1 de Maio de 2008	NaN	
+Nica	8 ano(s) e 6 mes(es)	Feminino	Cao Rafeiro (indefinida)	Medio e Liso	Medio	21 de Junho de 2005	 30 de Outubro de 2008	NaN	
+Sherlock	13 ano(s) e 9 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno	6 de Marco de 2003	 6 de Dezembro de 2012	NaN	
+Virgil	11 ano(s) e 4 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Medio e Liso	Grande		 24 de Maio de 2008	NaN	
+Aldinha	12 ano(s) e 10 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio	6 de Marco de 1999	 30 de Abril de 2008	NaN	
+Francisco	12 ano(s) e 7 mes(es)	Masculino	Cao Rafeiro (indefinida)	Medio e Liso	Medio	6 de Fevereiro de 2000	 6 de Outubro de 2011	NaN	
+Francisco	12 ano(s) e 7 mes(es)	Masculino	Cao Rafeiro (indefinida)	Medio e Liso	Medio	6 de Fevereiro de 2000	 6 de Outubro de 2011	NaN	
+Juiza	13 ano(s) e 6 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Medio e Liso	Pequeno	6 de Marco de 1999	 26 de Setembro de 2010	NaN	
+Margarida		Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 8 de Julho de 2011	NaN	
+Ivan	13 ano(s)	Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio	6 de Marco de 1998	 20 de Marco de 2008	NaN	
+Tricolor	14 ano(s) e 4 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio	6 de Marco de 1998	 10 de Julho de 2009	NaN	
+Tricolor	14 ano(s) e 4 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio	6 de Marco de 1998	 10 de Julho de 2009	NaN	
+Snif	1 ano(s) e 11 mes(es)	Masculino (castrado)	Labrador Retriever (arracado)	Medio e Liso	Medio	6 de Outubro de 2005	NaN	 1 de Marco de 2006	
+Snif	1 ano(s) e 11 mes(es)	Masculino (castrado)	Labrador Retriever (arracado)	Medio e Liso	Medio	6 de Outubro de 2005	NaN	 1 de Marco de 2006	
+Bonny	13 ano(s) e 9 mes(es)	Feminino  (esterilizada)	Ridgeback Rodesiano (arracado)	Curto e Grosso	Medio		NaN	NaN	
+Tess		Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Grosso	Medio		 10 de Abril de 2011	NaN	
+Gigi		Feminino	Cao Rafeiro (indefinida)	Medio e Liso	Pequeno		 21 de Maio de 2009	NaN	
+Farrusco/Charro		Masculino	Cao Rafeiro (indefinida)	Medio e Liso	Pequeno		NaN	 11 de Marco de 2006	
+Nina		Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		NaN	 1 de Agosto de 2006	
+Thor		Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		NaN	 28 de Janeiro de 2012	
+Thor		Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		NaN	 28 de Janeiro de 2012	
+Caramela		Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		NaN	 26 de Abril de 2009	
+Missuko		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Gigante		 19 de Junho de 2008	NaN	
+Cabecudo ou Mel		Masculino	Cao Rafeiro (indefinida)	Curto e Grosso	Medio		 19 de Setembro de 2008	NaN	
+Jamor		Masculino (castrado)	Cao Rafeiro (indefinida)	Medio e Liso	Grande		NaN	 17 de Fevereiro de 2009	
+Tieta		Feminino	Cao Rafeiro (indefinida)	Curto e Grosso	Medio		 17 de Junho de 2011	NaN	
+Nino		Masculino	Cao Rafeiro (indefinida)	Curto e Grosso	Pequeno		 1 de Abril de 2016	NaN	
+Sem Nome Atribuido		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 1 de Setembro de 2006	NaN	
+Oscar		Masculino	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 14 de Setembro de 2009	NaN	
+Sexta feira	11 ano(s) e 6 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Grosso	Pequeno	6 de Junho de 1999	 2 de Janeiro de 2008	NaN	
+Sexta feira	11 ano(s) e 6 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Grosso	Pequeno	6 de Junho de 1999	 2 de Janeiro de 2008	NaN	
+Rex		Masculino (castrado)	Husky Siberiano (puro)	Medio e Liso	Medio		 11 de Maio de 2009	NaN	
+Soraya		Feminino  (esterilizada)	Beagle (arracado)	Curto e Sedoso	Medio		NaN	 1 de Janeiro de 2006	
+Morris	6 ano(s) e 8 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio	5 de Marco de 2003	 20 de Novembro de 2007	NaN	
+Max		Masculino (castrado)	Rottweiler (puro)	Curto e Sedoso	Grande		NaN	 15 de Janeiro de 2006	
+Ines	3 ano(s) e 7 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio	5 de Junho de 2004	NaN	 1 de Novembro de 2006	
+Sasha	11 ano(s) e 3 mes(es)	Feminino	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 1 de Fevereiro de 2013	NaN	
+Manelinha	13 ano(s)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Medio	Medio	1 de Agosto de 2007	NaN	NaN	
+Aranhica	15 ano(s) e 4 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 9 de Janeiro de 2016	NaN	
+Aranhica	15 ano(s) e 4 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 9 de Janeiro de 2016	NaN	
+Aranhica	15 ano(s) e 4 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 9 de Janeiro de 2016	NaN	
+Aranhica	15 ano(s) e 4 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Medio		 9 de Janeiro de 2016	NaN	
+Caramelo		Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno		 19 de Novembro de 2006	NaN	
+Dente	14 ano(s) e 4 mes(es)	Masculino (castrado)	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno	18 de Maio de 2000	 8 de Janeiro de 2012	NaN	
+Nicole	10 ano(s) e 6 mes(es)	Feminino  (esterilizada)	Epagneul Breton (arracado)	Comprido e Ondulado	Medio	6 de Julho de 2000	NaN	 19 de Dezembro de 2009	
+Paura	11 ano(s)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Curto e Sedoso	Pequeno	17 de Marco de 2001	 17 de Abril de 2011	NaN	
+Roca	14 ano(s) e 8 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Comprido e Liso	Pequeno	28 de Marco de 2004	 1 de Dezembro de 2014	NaN	
+Lili	15 ano(s) e 6 mes(es)	Feminino  (esterilizada)	Cao Rafeiro (indefinida)	Medio e Liso	Medio	9 de Maio de 2000	 20 de Novembro de 2011	NaN	
+Ravel		Masculino	Cao Rafeiro (indefinida)	Comprido e Ondulado	Pequeno		NaN	 20 de Janeiro de 2006	
+Ravel		Masculino	Cao Rafeiro (indefinida)	Comprido e Ondulado	Pequeno		NaN	 20 de Janeiro de 2006
